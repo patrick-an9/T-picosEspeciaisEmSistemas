@@ -1,0 +1,14 @@
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\bin\Debug\net8.0\Ambientacao.exe
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\bin\Debug\net8.0\Ambientacao.deps.json
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\bin\Debug\net8.0\Ambientacao.runtimeconfig.json
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\bin\Debug\net8.0\Ambientacao.dll
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\bin\Debug\net8.0\Ambientacao.pdb
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.AssemblyInfo.cs
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.dll
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\refint\Ambientacao.dll
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.pdb
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\Ambientacao.genruntimeconfig.cache
+C:\Users\autologon\Desktop\Patrick.aula1.TES\Ambientacao\obj\Debug\net8.0\ref\Ambientacao.dll
